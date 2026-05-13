@@ -26,10 +26,13 @@ I'm Specialize in AWS Solution Architect, Kubernetes, CI/CD Automation, with the
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-parab-65492b368/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the badge&logo=gmail&logoColor=white)](mailto:aryaparab2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-thebadge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
 
 </div>
