@@ -28,7 +28,7 @@ I'm Specialize in AWS Solution Architect, Kubernetes, CI/CD Automation, with the
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
