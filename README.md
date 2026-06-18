@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm Arya Parab a DevOps Engineer from India, with 8 months of professional experience. I'm passionate about building production-ready applications and scalable cloud infrastructure.
+I'm Arya Parab a DevOps Engineer from India, with 9 months of professional experience. I'm passionate about building production-ready applications and scalable cloud infrastructure.
 
 I'm Specialize in AWS Solution Architect, Kubernetes, CI/CD Automation, with the focus on build a production-grade, observable, and self-healing systems.
 
